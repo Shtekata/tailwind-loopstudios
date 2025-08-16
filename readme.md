@@ -1,6 +1,6 @@
 # Simple Tailwind Starter
 
-This is a simple Tailwind starter project using the Tailwind CLI. It is meant to be used as a starting point for your projects.
+This is a Tailwind Loopstudios project using the Tailwind CLI.
 
 ## Usage
 
